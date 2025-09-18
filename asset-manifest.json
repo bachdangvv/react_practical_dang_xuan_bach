@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_practical_dang_xuan_bach/static/css/main.24b85fcc.css",
+    "main.js": "/react_practical_dang_xuan_bach/static/js/main.32804fdc.js",
+    "index.html": "/react_practical_dang_xuan_bach/index.html",
+    "main.24b85fcc.css.map": "/react_practical_dang_xuan_bach/static/css/main.24b85fcc.css.map",
+    "main.32804fdc.js.map": "/react_practical_dang_xuan_bach/static/js/main.32804fdc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24b85fcc.css",
+    "static/js/main.32804fdc.js"
+  ]
+}
